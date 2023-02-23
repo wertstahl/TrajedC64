@@ -2,7 +2,7 @@
 		;
 		;  important note: i had to quickly write this during my c64 demo coding efforts.
 		;				   clearly: i know that my coding is suboptimal and that the 
-		;				   logic and layout and overall usage of the language suck.
+		;				   logic and layout and overall usage of the language sXck.
 		;				   i know there are some very unusual and complex ways to solve
 		;				   problems, that rather cause new problems than actually help.
 		;				   BUT. this works. and i had the idea first. and i made it happen.
