@@ -15,7 +15,7 @@ The author takes no liabilty for anything.
 
 
 # important note: 
-		i had to quickly write this during my c64 demo coding efforts.
+                i had to quickly write this during my c64 demo coding efforts.
 	   	clearly: i know that my coding is suboptimal and
 	   	that the logic and layout and overall usage of the
 	   	language sXck. i know there are some very unusual 
@@ -25,11 +25,11 @@ The author takes no liabilty for anything.
 	   	and i made it happen.
 		if you don´t like it, do not use it. simple.
 		
-		the file <b>testarea960x600.png</b> has to stay with the 
+                the file testarea960x600.png has to stay with the 
 		binaries in the root directory. or there will be crashes.
 		
-		the blinking and drawing upon del-undo is not so visually
-		functional under windows 10. meh.
+                the blinking and drawing upon del-undo is not really
+		functional under windows 7 and 10. meh.
 
 program name:		
 		 trajed v1.08 
