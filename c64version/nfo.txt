@@ -1,0 +1,4 @@
+this is the initial c64 version of trajed. 
+there is not much to say about it but that it has nearly no functionality and you need to save your result from ram by hand. 
+do not use it. it is a pain in the butt.
+(c) wertstahl/g*p 2012
