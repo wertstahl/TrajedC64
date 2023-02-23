@@ -24,6 +24,12 @@ The author takes no liabilty for anything.
 	   	this works. and i had the idea first. 
 	   	and i made it happen.
 		if you don´t like it, do not use it. simple.
+		
+		the file <b>testarea960x600.png</b> has to stay with the 
+		binaries in the root directory. or there will be crashes.
+		
+		the blinking and drawing upon del-undo is not so visually
+		functional under windows 10. meh.
 
 program name:		
 		 trajed v1.08 
