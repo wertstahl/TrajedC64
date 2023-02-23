@@ -7,7 +7,7 @@ Initial Release: https://csdb.dk/release/?id=113623 <br>
 Demo/Tutorial: https://www.youtube.com/watch?v=Gt0_kQVgApI
 
 
-System requirements:
+# System requirements:
 Tested on Windows XP SP3 32, min 1024x900 pix screen resolution, runs on Win7 and 10, too.
 		
 This is alpha software. If you decide to use this, you do so at you own risk.
