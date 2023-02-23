@@ -9,8 +9,8 @@ Tested on Windows XP SP3 32, min 1024x900 pix screen resolution, runs on Win7 an
 This is alpha software. If you decide to use this, you do so at you own risk.
 The author takes no liabilty for anything.
 
-;----------------------------------------------------------------------------------
-#important note: 
+
+# important note: 
 		i had to quickly write this during my c64 demo coding efforts.
 	   	clearly: i know that my coding is suboptimal and
 	   	that the logic and layout and overall usage of the
@@ -40,8 +40,8 @@ system:
 		 windows xp pro 32bit 
 		 uses Blitz3D Filerequester (2.Update) by MPZ !!! 
 		
-;----------------------------------------------------------------------------------
-version history: 
+
+# version history: 
 
 v1.08	 (build 12)	minor changes prior to public release
 v1.08	 (build 11)	added an option to infuse an "AND #$0F" operation in the
@@ -60,8 +60,8 @@ v1.07a -- 	bugfix: memory access violation after loading a project fixed
 
 v1.06a -- 		1st fully functional release
 
-;----------------------------------------------------------------------------------
-#introduction:
+
+# introduction:
 	
 Trajed was done for this:
 		
@@ -95,8 +95,8 @@ just click the desired source and target (one after the other) and then export a
 nice sourcecode or binary. unrolled speedcode.
 		
 		
-;----------------------------------------------------------------------------------
-#quickdocs:
+
+# quickdocs:
 		
 so. how does it work?
 		
@@ -136,7 +136,7 @@ first, before you attempt to use this tool, or you will think that the editor is
 		
 if you know all this: good. (it is actually really very very simple.)
 
-#general keys:
+# general keys:
 		press <h> for help (this is propably all you need to know). 
 		
 		<LMB> 	sets a source and then a target. and then a source and a target. always in exchange.
@@ -154,7 +154,7 @@ if you know all this: good. (it is actually really very very simple.)
 		<s>	will save a project in a custom .traj format (guides are saved, too, base adress is not)
 
 
-#editing logic:
+# editing logic:
 		<l>	(lowercase L) Switch editing "logic"
 			this is an important function. if you want to create stuff that is of extended
 			logic, you must switch the logic restrictions by pressing <l> 
@@ -180,7 +180,7 @@ if you know all this: good. (it is actually really very very simple.)
 					
 					
 
-#export submenu:
+# export submenu:
 			<g>	will give you the export screen.
 			press <t> to test your trajectory. you will see an image which is broken down
 			into 24x24 pix, emulating the dimensions of the c64 
@@ -227,7 +227,7 @@ if you know all this: good. (it is actually really very very simple.)
 
 		
 
-#disclaimer/copyright/support/notes:
+# disclaimer/copyright/support/notes:
 		
 I can only give very limited support for this. 
 If you need support because you found a gnasty bug, you
