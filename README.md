@@ -3,7 +3,7 @@ Trajed - C64 Scrolling Trajectory Editor
 
 Initial Release: https://csdb.dk/release/?id=113623 <br>
 
-# WATCH THIS VIDEO:
+# WATCH THIS TUTORIAL VIDEO:
 Demo/Tutorial: https://www.youtube.com/watch?v=Gt0_kQVgApI
 
 
