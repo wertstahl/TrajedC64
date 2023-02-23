@@ -1,7 +1,8 @@
 # TrajedC64
 Trajed - C64 Scrolling Trajectory Editor
 
-Update 2022: Email Adress updated.
+Demo/Tutorial: https://www.youtube.com/watch?v=Gt0_kQVgApI
+
 
 System requirements:
 Tested on Windows XP SP3 32, min 1024x900 pix screen resolution, runs on Win7 and 10, too.
