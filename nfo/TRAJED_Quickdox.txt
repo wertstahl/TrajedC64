@@ -1,8 +1,3 @@
-		This archive is always to be found in a safe version at:
-		http://dl.datalephant.net/trajed_upd+source.rar
-
-		Update 2022: Email Adress updated.
-
 		System requirements:
 		Tested on Windows XP SP3 32, min 1024x900 pix screen resolution.
 		
@@ -14,13 +9,13 @@
 		  important note: i had to quickly write this during my c64 demo coding efforts.
 						   clearly: i know that my coding is suboptimal and
 						   that the logic and layout and overall usage of the
-						   language suck. i know there are some very unusual 
+						   language sXck. i know there are some very unusual 
 						   and complex ways to solve problems, that rather 
 						   cause new problems than actually help. BUT. 
 						   this works. and i had the idea first. 
 						   and i made it happen.
 						   
-						   if you don´t like it, do not use it. simple.
+						   if you donÂ´t like it, do not use it. simple.
 	program name:		
 		 trajed v1.08 
  		 c=64 hard scrolling trajectory editor
@@ -29,7 +24,7 @@
 		 other platform demo tool
 
 	creator:
-		 (c) 2012 by wertstahl (wertstahl@yahoo.de || www.wertstahl.de)
+		 (c) 2012 by wertstahl (www.wertstahl.de)
 
 	abstract:
 		 visually construct hard-scrolling methods and generate 6510 assembler speedcode for 
@@ -79,7 +74,7 @@
 		
 		for vertical, horizontal, diagonal or even mathematical sine, triangle whatever directions
 		you can write simple routines that write you speedcode. because doing this by using loops
-		is wasting raster time, which you don´t have that much of, because of all of the other
+		is wasting raster time, which you donÂ´t have that much of, because of all of the other
 		fancy effects on the screen and so on.
 		
 		you can also want to scroll the color ram at $d800, for example. same as above.
@@ -104,7 +99,7 @@
 		
 	so. how does it work?
 		
-		if you´re on windows (tested on xp pro, 32 bit, sp3, 2gb ram, 1024x960 screen minimum): 
+		if youÂ´re on windows (tested on xp pro, 32 bit, sp3, 2gb ram, 1024x960 screen minimum): 
 		
 		doubleclick the trajed.exe and after starting up, you should see the TRAJED screen,
 		filled with blue squares and below that, the status display.
@@ -196,7 +191,7 @@
 					editing the picture in the base directory
 					of TRAJED, called "testarea960x600.png" 
 					WARNING: if that picture is not in the given name,
-					size and file format, trajed won´t find
+					size and file format, trajed wonÂ´t find
 					it and will not start! 
 					960x600 gives you 40x25 blocks of 24x24 pixels.
 					some options will be displayed at the bottom of the screen.
@@ -237,8 +232,6 @@
 		disclaimer/copyright/support/notes:
 		
 		I can only give very limited support for this. 
-		If you need support because you found a gnasty bug, you
-		can write to wertstahl@gmx.de (usually i answer within an hour)
 		
 		This thing is written in Blitz Basic, Blitz3d, to be exact. You can ask me for the sourcecode.
 
@@ -250,6 +243,6 @@
 		
 		Thanks to MPZ for publishing his system requester function on blitzbasic.com
 		
-		(c)2012 by Sebastian I. Hartmann aka Wertstahl (yes, from the band).
+		(c)2012 by Sebastian I. Hartmann aka Wertstahl
 
 	;----------------- EOF
