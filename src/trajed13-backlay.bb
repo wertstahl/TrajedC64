@@ -7,10 +7,10 @@
 		;				   problems, that rather cause new problems than actually help.
 		;				   BUT. this works. and i had the idea first. and i made it happen.
 		;				   
-		;				   if you don´t like it, do not use it. simple.
+		;				   if you donÂ´t like it, do not use it. simple.
 		;
 		;
-		; trajed v1.08
+		; trajed v1.13 backlay version
 		; c=64 trajectory editor (c) 2012 by wertstahl of genesis*project
 		;
 		; visually construct hard scrolling methods and generate assembler speedcode
@@ -1373,7 +1373,7 @@
 						.openproject	
 				
 								projectfilename$=""			
-								projectfilename$ = getopenfile$("File open / Datei öffnen","%UserProfile%\Desktop\","Trajed Project Files (*.traj)" + Chr$(0) + "*.traj" + Chr$(0)); flags optional
+								projectfilename$ = getopenfile$("File open / Datei Ã¶ffnen","%UserProfile%\Desktop\","Trajed Project Files (*.traj)" + Chr$(0) + "*.traj" + Chr$(0)); flags optional
 								If projectfilename$ = "" Then Goto besorry7
 
 								Dim matrix(1000)
@@ -1495,7 +1495,7 @@
 			
 			;example code:
 			
-			;Print getopenfile$("File open / Datei öffnen","%UserProfile%\Desktop\","Trajed Project Files (*.traj)" + Chr$(0) + "*.traj" + Chr$(0)); flags optional
+			;Print getopenfile$("File open / Datei Ã¶ffnen","%UserProfile%\Desktop\","Trajed Project Files (*.traj)" + Chr$(0) + "*.traj" + Chr$(0)); flags optional
 			
 			;Print getsavefile$("File Save / Datei sichern","new_project.traj","Trajed Project File (*.traj)" + Chr$(0) + "*.traj" + Chr$(0) + "Text" + Chr$(0) + "*.txt" + Chr$(0));; flags optional
 			
