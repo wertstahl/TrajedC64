@@ -230,10 +230,8 @@ if you know all this: good. (it is actually really very very simple.)
 # disclaimer/copyright/support/notes:
 		
 I can only give very limited support for this. 
-If you need support because you found a gnasty bug, you
-can write to wertstahl@gmx.de (usually i answer within an hour)
 
-This thing is written in Blitz Basic, Blitz3d, to be exact. You can ask me for the sourcecode.
+This thing is written in Blitz Basic, Blitz3d, to be exact.
 
 Please have fun with it, please feel free to use the results in any way you desire. 
 
