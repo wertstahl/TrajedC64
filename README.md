@@ -29,7 +29,7 @@ program type:
 		 other platform demo tool
 
 creator:
-		 (c) 2012 by wertstahl (wertstahl@yahoo.de || www.wertstahl.de)
+		 (c) 2012 by wertstahl (www.wertstahl.de)
 
 abstract:
 		 visually construct hard-scrolling methods and generate 6510 assembler speedcode for 
