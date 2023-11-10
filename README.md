@@ -10,8 +10,8 @@ Demo/Tutorial: https://www.youtube.com/watch?v=Gt0_kQVgApI
 # System requirements:
 Tested on Windows XP SP3 32, min 1024x900 pix screen resolution, runs on Win7 and 10, too.
 		
-This is alpha software. If you decide to use this, you do so at you own risk.
-The author takes no liabilty for anything.
+This is alpha software. If you decide to use this, you do so at your own risk!
+The author takes no liabilty for anything!
 
 
 # important note: 
